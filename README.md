@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/analytics-pixelmonkeys-tony-babel-l46Cy1rHbQ92uuLXa" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="600" height="300"/>
 </div>
 
 ### Hi there 👋
