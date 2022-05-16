@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am aspiring Data Analyst👩‍💻 based in Poland 🇵🇱
+I am aspiring Data Scientist👩‍💻 based in Poland 🇵🇱
 
 - 🔭 I’m currently working on my portfolio as Data Scientist
 - 🌱 I’m currently learning R, Tableau and SQL
